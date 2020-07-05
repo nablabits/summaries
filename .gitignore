@@ -1,0 +1,9 @@
+*.swp
+*.checkpoint.ipynb
+*__pycache__
+*.ipynb_checkpoints
+*.env
+2019/t_cache
+2019/older\ entries.csv
+2018/outputs/2018\ summary.jpg
+2018/db.sqlite

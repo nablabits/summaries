@@ -1,0 +1,29 @@
+task,description
+default,The default section
+MV-A Derivatives,Khan academy's multivariable calculus derivatives section.
+MV-B optimization,Khan academy's multivariable calculus optimization section.
+MV-C Integration,Khan academy's multivariable calculus integrals section.
+Bayes,A brief introduction on Bayes' theorem
+E of Linear Algebra,Essence of linear algebra video series by 3b1b
+Galperin,A funny way to find π's decimals following the 2003 paper by G Galperin
+Hyperdarts,A fuuny math puzzle proposed by Greg Egan with unexpected outcomes
+Information Theory,Follow the classic paper by Claude Shannon
+Pool Quiz,Yet another math quizz
+SuperIntegral,A challenging integral found on Twitter that took me a while to solve.
+SuperPermutations,A global challenge --brute force attack-- to find the string that contains the 720 permutations of the digits between 1 and 6 that is shorter than the previous record
+BuildUp section,A detailed analysis of the buildUp activities
+Intro & overview section,Write and code the introduction of the notebook
+OpK Billable & Tries section,Last year billable & collab were named sightly different and were together
+Sheet,After the notebook analysis I fill an A3 sheet with the key moments of the year
+Sport section,Sport analysis
+StuffBox section,StuffBox is this year's personal area
+Dive into neural networks,My first incursion --such an incursion-- in a ML topic
+EuroSciPy,A conference held in Bilbao about scientific python. It both includes the conference itself and the posterior works
+Minimax,A short trip on Minimax algorithm with a visualization
+Classification,Explore some classification algorithms 
+PCA,A deep introduction into Pricipal component analysis
+Preprocessing,Check out the different preprocessing techniques
+SVD,An introduction on singular value descomposition
+Seminar,Course sessions
+After work,review the topics seen during the course
+Course,Course sections

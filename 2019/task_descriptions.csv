@@ -27,3 +27,24 @@ SVD,An introduction on singular value descomposition
 Seminar,Course sessions
 After work,review the topics seen during the course
 Course,Course sections
+Batch number,Add a batch number so we can track production 
+Breadcrumbs,The breadcrumbs in the item editor
+Bug Tracker,Fix bugs
+CashFlowIO,A model to track cash flow
+Confirmed feature,Option to mark orders as unconfirmed
+Discount feature,Add discounts to orders
+Estimated times methods,Calculate the estimated time to produce an item 
+Express orders,Add express orders model
+Group model,Classify some customers as groups
+Hour Tracker,Track working hours
+Invoicing feature,Issue invoices
+Kanban view,Visually track orders' progress
+Minor improvements,Small features
+New Order view,Rebuild the order view layout
+New homepage,Rebuild the homepage layout
+Prepaid improvement,Add prepaids to orders
+REST API,Create a rest API to distill data
+Status Tracker,Track the times orders spent in each part of the process
+Stock Manger,Track stock
+Voyeur view,Add a special user that do not track times
+ticket print,Print tickets out of order or direct sales 
